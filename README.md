@@ -13,11 +13,20 @@ A quick start template so that you can focus more on your project.
 
 >
 > Make your project SEO friendly with Next-Seo.
+> >Example
+>
+>- npx create-next-app --example [Github Repository Link] YOUR_APP_NAME
+> >
+> > Use this command to create your project.
+> 
+> - npx create-next-app --example https://github.com/alwaz-shahid/nextjs-tailwind-template YOUR_APP_NAME
 
- Here you can find live [Preview](http://example.net/) of the app. &copy; 2022
+ Here you can find live [Preview]([http://example.net/](https://next-tailwind-css-cna.netlify.app/)) of the app. &copy; 2022
 
 ## Commands
 ```
+CLI: npx create-next-app --example [link] [my-app]
+>
 dev:next dev
 build: next build
 start: next start
@@ -48,7 +57,7 @@ Connect with me on [Instagram](https://www.instagram.com/alwazdev)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alwazshahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alwazshahid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alwaz-shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alwaz-shahid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alwaz-shahid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alwaz-shahid" height="30" width="40" /></a>
 <a href="https://instagram.com/alwazdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alwazdev" height="30" width="40" /></a>
 </p>
 
